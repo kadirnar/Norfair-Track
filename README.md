@@ -15,7 +15,7 @@ This repo is a packaged version of the [NorFair](https://github.com/tryolabs/nor
 pip install norfair-tracker
 ```
 
-### Detection Model + ByteTrack 
+### Detection Model + Norfair 
 ```python
 from norfair_tracker.norfair import NorFair
 
